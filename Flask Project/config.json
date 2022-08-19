@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/wanderingeducators",
+    "prod_uri": "mysql://root:@localhost/wanderingeducators",
+    "blog_name": "Wandering Educators",
+    "tag_line": "Blogs by Travellers for Travellers",
+    "gmail_user": "saumyaswati2016@gmail.com",
+    "gmail_password": "Saumya@1008",
+    "no_of_posts": 2,
+    "login_image":"admin_logo.png",
+    "admin_user":"swati",
+    "admin_password": "subscribenow",
+    "upload_location": "C:\\Users\\SAUMYA SWATI\\Desktop\\Flask Project\\static\\images"
+
+  }
+}
